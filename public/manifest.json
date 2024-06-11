@@ -1,0 +1,13 @@
+{
+  "name": "TodoList Chrome Extension",
+  "version": "1.0.0",
+  "description": "TodoList to save your tasks",
+  "manifest_version": 3,
+  "author": "VijayCodes",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Todo List",
+    "default_icon": "./to-do-list (4).png"
+  },
+  "permissions": ["activeTab","storage"]
+}
