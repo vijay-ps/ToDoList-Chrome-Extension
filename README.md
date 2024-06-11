@@ -1,4 +1,4 @@
-Sure! Here are clearer instructions for using the Chrome extension:
+Here are the steps for using the Chrome extension:
 
 1. Clone the git repository or download all the files.
 2. Open the folder and type "npm install" in the terminal to install the necessary packages.
